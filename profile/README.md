@@ -1,1 +1,1 @@
-![welcome banner of JWST color image with the words "Welcome to Cosmic Spring" overlaid](.../welcome.jpeg)
+![welcome banner of JWST color image with the words "Welcome to Cosmic Spring" overlaid](https://github.com/cosmic-spring/.github/blob/9b5d7844b3e84a023ebe3ffd0eac5938c226c7b5/profile/welcome.jpeg)
